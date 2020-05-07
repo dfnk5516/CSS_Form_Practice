@@ -1,6 +1,6 @@
 # Animated Login Form Using Only HTML & CSS
 ## https://youtu.be/HV7DtH3J2PU
-![image01](./image/01.png){:height="50%" width="50%"}.
+![image01](./image/01.png)
 
 # CSS3 Contact Us Form Design with Floating Placeholder | Responsive Design
 ## https://youtu.be/wgyvLfXBGdQ
