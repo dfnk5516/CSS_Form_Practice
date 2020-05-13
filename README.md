@@ -8,7 +8,8 @@
 
 # Move Placeholder To Top on Focus And While Typing - Pure CSS Tutorial - No Javascript
 ## https://youtu.be/BKhoo6RSEDU
-![image02](./image/03.jpg)
+![image03](./image/03.jpg)
 
 # Move Placeholder To Top on Focus And While Typing - Pure CSS Tutorial - No Javascript
 ## https://youtu.be/BKhoo6RSEDU
+![image04](./image/04.png)
